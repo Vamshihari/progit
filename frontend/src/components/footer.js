@@ -4,10 +4,11 @@ const Footer = () => {
     return (
         <div>
             <footer>
+                <br></br>
   <p>Author: HARI VAMSHI
-  Author: HARI VAMSHI
+     Author: SURYA KANT
   </p>
-  <p><a href="mailto:hege@example.com">hege@example.com</a></p>
+  <p><br/><a href="mailto:example@example.com">example@example.com</a></p>
              </footer>
         </div>
     );
